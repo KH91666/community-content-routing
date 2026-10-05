@@ -1,0 +1,4 @@
+model,test_accuracy
+Metadata,0.596875
+Text,0.8
+Text + metadata,0.820625

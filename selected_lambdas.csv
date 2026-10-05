@@ -1,0 +1,5 @@
+model,selection,value
+Text,lambda.min,0.010239710805139883
+Text,lambda.1se,0.010239710805139883
+Text + metadata,lambda.min,0.007826109470423245
+Text + metadata,lambda.1se,0.010751695419654813

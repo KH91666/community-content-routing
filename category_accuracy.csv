@@ -1,0 +1,13 @@
+category,accuracy,model
+english_language,0.3075,Metadata
+english_learners,0.65,Metadata
+scifi,0.775,Metadata
+world_building,0.655,Metadata
+english_language,0.625,Text
+english_learners,0.73,Text
+scifi,0.8975,Text
+world_building,0.9475,Text
+english_language,0.67,Text + metadata
+english_learners,0.72,Text + metadata
+scifi,0.945,Text + metadata
+world_building,0.9475,Text + metadata
